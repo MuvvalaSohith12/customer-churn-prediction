@@ -16,7 +16,8 @@ Team number : VH093
 | V SIVA GANESH REDDY | 99210041377@klu.ac.in |
 | B PRATHAP | 9921004845@klu.ac.in |
 <img src="https://graph.org/file/c5fc7a6c8fe9dcbea7d05.jpg">
-
+<img src="https://graph.org/file/bae726f288d28da929051.jpg">
+<img src="https://graph.org/file/f2dffa2f6fc93a643a971.jpg">
 ## Problem statement 
 The customer churn prediction involves the percentage of customers who leaves the company in certain period of time then we can define it as churn rate.By understanding the Sure thing, Customer churn prediction is all about using data to anticipate which customers are likely to stop using a company's products or services. By analyzing historical customer behavior, businesses can identify patterns and indicators that suggest a customer might churn. This can include factors like customer demographics, purchase history, usage patterns, customer complaints, and more. Machine learning algorithms are often used to build predictive models that can accurately forecast churn. These models can help businesses take proactive measures to retain customers, such as targeted marketing campaigns or personalized offers.
 ## About the project
