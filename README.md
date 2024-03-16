@@ -30,11 +30,8 @@ Customer churn prediction solves several problems for businesses. By accurately 
 
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
+Here is the flowchart what are the steps we want to implement to predict whether customer is a churn or not
+
 ![flowchart](https://graph.org/file/f80850fb155413da434cd.jpg)
 
 ## Techstacks used 
