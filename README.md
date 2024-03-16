@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href=""> Healthcare Website </a><br>
+        <a href=""> Customer churn prediction </a><br>
 </h1>
 
 # [Website link](http://www.google.com)  [`Demo video link `](http://www.google.com)
@@ -35,7 +35,7 @@ mention the approach and how you have solved the problem with the technology , u
 - be consise and specific
 - explain with images and flowcharts
 - 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+![flowchart](https://graph.org/file/f80850fb155413da434cd.jpg)
 
 ## Techstacks used 
 python,html,css,java script
