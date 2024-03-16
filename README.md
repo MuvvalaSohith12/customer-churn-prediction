@@ -3,7 +3,7 @@
         <a href=""> Customer churn prediction </a><br>
 </h1>
 
-# [Website link](http://www.google.com)  [`Demo video link `](http://www.google.com)
+# [Website link](http://www.google.com)  [`Demo video link `](https://www.flexclip.com/share/5444916c21f498a6d7ceac9ee6878b7928b911b.html)
 Churn rate,which is the percentage of computers who leaves the company over a given period of time,can have a significant impact on a companys revenue and profitability.Predicting customer churn can help companies can take proactive measures to retain customers and reduce the churn rate.
 
 ## Team Details
